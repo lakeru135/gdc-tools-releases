@@ -1,8 +1,8 @@
 {
   "latestVersion": "1.3.8",
   "downloadNote": "Contact the BIM team for the installer.",
-  "allowedUntil": "2026-11-08",
+  "allowedUntil": "2026-10-01",
   "minVersion": null,
   "versionExpiry": {},
-  "message": "1.3.8 - the add-in now checks once a day that it is still allowed to run."
+  "message": "1.3.8 - Fix Revit Complibility"
 }
