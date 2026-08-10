@@ -1,7 +1,8 @@
 {
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.3.8",
   "downloadNote": "Contact the BIM team for the installer.",
-  "allowedUntil": "2026-10-18",
+  "allowedUntil": "2026-11-08",
   "minVersion": null,
-  "message": ""
+  "versionExpiry": {},
+  "message": "1.3.8 - the add-in now checks once a day that it is still allowed to run."
 }
