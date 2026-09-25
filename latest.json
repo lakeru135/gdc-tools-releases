@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.4.2.1",
+  "latestVersion": "1.5.1.3",
   "downloadNote": "Contact the BIM team for the installer.",
   "allowedUntil": "2026-10-01",
   "minVersion": null,
@@ -8,5 +8,5 @@
     "1.4.1.0": "2026-08-29",
     "1.4.2.0": "2026-08-29"
   },
-  "message": "1.4.2.1 - please update. 1.4.0, 1.4.1 and 1.4.2 stop a whole run when one Revit looks busy, and stop working on 29 Aug."
+  "message": "1.5.1.3 is available - please update."
 }
